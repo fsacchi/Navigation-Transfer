@@ -3,10 +3,10 @@ Payments app using [Android Navigation](https://developer.android.com/guide/navi
 
 
 <p float="left">
-  <img width="25%" height="50%" src="https://github.com/fsacchi/Navigation-Transfer/blob/main/screenshots/screen1.png" />
-  <img width="25%" height="50%" src="https://github.com/fsacchi/Navigation-Transfer/blob/main/screenshots/screen2.png" />
-  <img width="25%" height="50%" src="https://github.com/fsacchi/Navigation-Transfer/blob/main/screenshots/screen3.png" />
-  <img width="25%" height="50%" src="https://github.com/fsacchi/Navigation-Transfer/blob/main/screenshots/screen4.png" />
+  <img width="20%" height="50%" src="https://github.com/fsacchi/Navigation-Transfer/blob/main/screenshots/screen1.png" />
+  <img width="20%" height="50%" src="https://github.com/fsacchi/Navigation-Transfer/blob/main/screenshots/screen2.png" />
+  <img width="20%" height="50%" src="https://github.com/fsacchi/Navigation-Transfer/blob/main/screenshots/screen3.png" />
+  <img width="20%" height="50%" src="https://github.com/fsacchi/Navigation-Transfer/blob/main/screenshots/screen4.png" />
 </p>
 
 # Main Features
