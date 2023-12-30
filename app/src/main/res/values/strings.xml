@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NavigationExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="initial_screen">Tela Inicial</string>
+    <string name="do_payment">Realizar pagamento</string>
+    <string name="lets_do_it">Vamos começar</string>
+    <string name="who_is_receiver">Quem irá receber</string>
+    <string name="hint_name_receiver">Nome do recebedor</string>
+    <string name="next">Avançar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="title_value">Qual o valor</string>
+    <string name="hint_value">Valor da transferência</string>
+    <string name="title_confirmation">Confirme os dados</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="title_password">Informe sua senha</string>
+    <string name="hint_password">Digite sua senha de 6 digitos</string>
+    <string name="transfer">Transferir</string>
+    <string name="title_transfer_success">Transferência realizada</string>
+    <string name="text_transfer_success">Sua transferência foi realizada com sucesso. Verifique seu extrato para maiores informações</string>
+    <string name="home">Home</string>
+    <string name="title_error">Algo saiu errado</string>
+    <string name="text_error">Senha inválida, por favor tente novamente mais tarde.</string>
+    <string name="retry">Tentar novamente</string>
+</resources>
